@@ -1,0 +1,2 @@
+# sliced
+Go slice utilities
